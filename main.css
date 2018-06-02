@@ -1,0 +1,14 @@
+body {
+   background-image: url(yt.jpg); 
+   background-size: 100pxl
+
+}
+
+h1 {
+    color: green;
+    font-style: italic;
+
+div.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
